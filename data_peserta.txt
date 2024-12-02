@@ -1,0 +1,11 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Carakka Wijaya
+2. Email: carakawijaya2001@gmail.com
+3. Sistem Operasi yang digunakan: MACOS
+4. Akun Github: https://github.com/caraka20
+5. Akun Telegram: @caraka20
+6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) : MAHASISWA
+7. Umur: 23
+8. Pernah menggunakan Go? : Belum
+9. Bahasa Pemrograman yg pernah dipelajari: Js
+10. Pernah membuat REST API? : Pernah
